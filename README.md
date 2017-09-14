@@ -1,6 +1,6 @@
 # ACES Development Roadmap
 
-## ACES Marketplace Platform
+## Phase 1. ACES Marketplace Platform
 
 The ACES Marketplace is a consumer platform for blockchain services built around Ark. 
 
@@ -60,9 +60,16 @@ Key Features:
 - Create a service admin interface that allows users to register, manage, and test their ACES Services
 
 
-# ACES Service Technology
+# Phase 2. ACES Service Capabilities
 
 ACES Services can be developed and hosted by anybody, but the ACES team plans to implement a number of services to be added to the marketplace.
+
+
+## Eth to Ark Transfer Service
+
+Create an ACES Service to Transfer Eth to an Ark Wallet. The service will create an
+Eth wallet and respond to transactions sent to it by creating a corresponding Ark
+transaction to the recipient.
 
 
 ## Bitcoin Listener Relay Node
