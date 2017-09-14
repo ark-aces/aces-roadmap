@@ -1,6 +1,6 @@
 # ACES Development Roadmap
 
-## Phase 1. ACES Marketplace Platform
+# Phase 1. ACES Marketplace Platform
 
 The ACES Marketplace is a consumer platform for blockchain services built around Ark. 
 
