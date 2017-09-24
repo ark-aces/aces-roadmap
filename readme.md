@@ -42,7 +42,9 @@ would allow users of Ark to:
 
 # Roadmap Timeline
 
-## Platform Milestones
+![Milestones Schedule](./assets/milestone-schedule.png)
+
+## Primary Milestones
 
 - Fiat to Ark Service Application Release
 - Encoded Listener Node Development Framework Release
@@ -53,11 +55,10 @@ would allow users of Ark to:
 - Marketplace Service Admin Release
 - Marketplace Service Launcher Console Release
 
-![Milestones Schedule](./assets/milestone-schedule.png)
 
 ## Product Milestones
 
-Capability Milestones are worked on in parallel to the primary milestones:
+Product Milestones are worked on in parallel to the primary milestones:
 
 - Ark Listener Node implementation
 - ARK to ETH Transfer Service implementation
@@ -88,7 +89,7 @@ Capability Milestones are worked on in parallel to the primary milestones:
 - Deploy Marketplace Service Launcher
 
 
-## Marketing
+## Marketing Milestones
 
 - Blog launch
 - Milestone announcements
@@ -127,8 +128,9 @@ Encoded Listener Nodes run a blockchain and expose a listener subscription API d
 
 ### Deliverables:
 
-- Encoded Listener Node API specification
-- Encoded Listener API documentation
+- REST-ful API Defined by Swagger Schema
+- Developer Documentation for implementing Listener Nodes
+- API Documentation for consuming Listener Nodes
 - Ark Encoded Listener Node Implementation
 - Ethereum Encoded Listener Node Implementation
 - Bitcoin Encoded Listener Node Implementation
@@ -140,10 +142,11 @@ Provide a framework for developing ACES Service Nodes. The ACES team will define
 
 ### Deliverables
 
-- Service Node API Specification
-- Service Node Developer Documentation
-- Service Node Implementation for Ethereum Contract Deployment
-- Service Node Implementation for Ark to Eth transfer
+- REST-ful API Defined by Swagger Schema
+- Developer Documentation for implementing Service Nodes
+- API Documentation for consuming Service Nodes
+- Service Node implementation for Ethereum Contract Deployment
+- Service Node implementation for Ark to Eth transfer
 - Service Node implementation for Eth to Ark transfer 
 
 
@@ -153,7 +156,8 @@ Provide a web application for searching and consuming ACES services.
 
 - API for registering services
 - API Developer documentation
+- User registration and login
 - Search index for registered Services
 - Service Console Web Application
 - Service Admin Web Application
-
+- Integrated Ark Wallet for seamless payments
