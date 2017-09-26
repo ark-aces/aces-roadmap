@@ -13,9 +13,9 @@ Many entities in the blockchain space are trying to deliver some form of blockch
 interoperability. Thus far most approaches have been using side-chain transaction
 protocols that operate within a single blockchain ecosystem.
 
-While this approach some very useful features, such as being able to perform
+While this approach provides some very useful features, such as being able to perform
 "trustless" and verifiable transactions across blockchains, it requires blockchains
-to agree on an implement a common protocol:
+to agree on and implement a common protocol:
 
 - Polkadot
 - district0x
@@ -109,7 +109,6 @@ Relevant KPI are tracked for each milestone to help measure adoption and success
 - Total Ark spent through Marketplace Service Nodes
 - Marketplace application uptime
 - Number of press articles by ACES team and unaffiliated parties (include Twitter/Reddit)
-- 3 Month mean Ark price
 - Infrastructure costs
 
 
