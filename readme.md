@@ -42,7 +42,7 @@ would allow users of Ark to:
 
 # Roadmap Timeline
 
-![Milestones Schedule](./assets/milestone-schedule.png)
+![Milestones Schedule](./assets/ACES-roadmap.png)
 
 ## Primary Milestones
 
