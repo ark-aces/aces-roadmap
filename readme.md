@@ -17,6 +17,7 @@ While this approach some very useful features, such as being able to perform
 "trustless" and verifiable transactions across blockchains, it requires blockchains
 to agree on an implement a common protocol:
 
+- Cosmos
 - Polkadot
 - district0x
 - Ark SmartBridge Clone-able Sidechains
@@ -40,9 +41,7 @@ would allow users of Ark to:
 - Fund development with Marketplace Service fees
 
 
-# Roadmap Timeline
-
-![Milestones Schedule](./assets/milestone-schedule.png)
+# Roadmap Milestones
 
 ## Primary Milestones
 
@@ -58,7 +57,8 @@ would allow users of Ark to:
 
 ## Product Milestones
 
-Product Milestones are worked on in parallel to the primary milestones:
+Product Milestones are worked on in parallel to the primary milestones to enable
+certain platform capabilities at launch:
 
 - Ark Listener Node implementation
 - ARK to ETH Transfer Service implementation
