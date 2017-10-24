@@ -96,23 +96,6 @@ certain platform capabilities at launch:
 - Marketplace Video
 
 
-# Key Performance Indicators
-
-Relevant KPI are tracked for each milestone to help measure adoption and success of the platform:
-
-- Number of Encoded Listener Node implementations
-- Number of Service implementations
-- Number of Service instances
-- Number of integrated blockchains
-- Number of Website visitors
-- Number of active Marketplace users
-- Total Ark spent through Marketplace Service Nodes
-- Marketplace application uptime
-- Number of press articles by ACES team and unaffiliated parties (include Twitter/Reddit)
-- 3 Month mean Ark price
-- Infrastructure costs
-
-
 # Product Strategy
 
 
